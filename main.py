@@ -31,13 +31,10 @@ BUFFER_ALTURA_STREAMLIT = 30 # Espaço extra para a rolagem do componente
 # Calcula a altura final do componente Streamlit (altura base escalada + buffer)
 ALTURA_FINAL_STREAMLIT = int(ALTURA_BASE_PIXELS * FATOR_ZOOM) + BUFFER_ALTURA_STREAMLIT
 
-# --- ESTRUTURA DE DADOS UTILIZADA (LISTA DE TUPLAS) ---
-# A tupla é: (Preço, Link)
 precos_e_links = [
     ("R$ 31,18", "https://www.centauro.com.br/bermuda-masculina-oxer-ls-basic-new-984889.html?cor=02"),
-    ("R$ 1794", "https://shopee.com.br/Xiaomi-Poco-X7-Pro-512GB-256GB-12-Ram-5G-Vers%C3%A3o-Global-NFC-Original-Lacrado-e-Envio-Imediato-ADS-i.1351433975.20698075298")
+    ("R$ 1794", "https://shopee.com.br/Xiaomi-Poco-X7-Pro-512GB-256GB-12-Ram-5G-Vers%C3%A3o-Global-NFC-Original-Lacrado-e-Envio-Imediato-ADS-i.1351433975.20698075298"),
 ]
-# --- FIM DA ESTRUTURA ---
 
 # Título principal diminuído (usando h2 em vez de h1)
 st.markdown("<h6>🔎 Monitor de Preço</h6>", unsafe_allow_html=True)
