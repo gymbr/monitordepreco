@@ -46,9 +46,9 @@ precos_e_links = [
 ("R$2599", "https://loja.electrolux.com.br/geladeira-refrigerador-frost-free-310-litros-branco-tf39-electrolux/p?idsku=2003557"),
 ("R$2469,05 alterar 127v", "https://www.webcontinental.com.br/geladeira-electrolux-frost-free-320l-duplex-branca-tf38-220v-001006002311/p?utm_medium=cpc&utm_source=zoom&utm_campaign=6c392c85896542cdae9f0d0264ab5271"),
 ("R$ 2.659,05", "https://www.buscape.com.br/geladeira/geladeira-electrolux-efficient-if43-frost-free-duplex-390-litros?_lc=88&searchterm=Geladeira%20Electrolux%20Frost%20Free%20320L%20Duplex%20Branca"),
-("R$ ", ""),
-("R$ ", ""),
-("R$ ", ""),
+("R$ 2999", "https://loja.electrolux.com.br/geladeira-electrolux-frost-free-431l-efficient-autosense-duplex-branca--tf70-/p?idsku=310127216&skuId=310127216"),
+("R$ 2346,08", "https://www.leroymerlin.com.br/geladeira-consul-frost-free-duplex-340-litros-branca-com-prateleiras-altura-flex-crm39ab-220v_1566707564?region=outros"),
+("R$ 2744,64", "https://www.brastemp.com.br/geladeira-brastemp-frost-free-duplex-375-litros-cor-branca-com-espaco-adapt-brm45jb/p?idsku=326031047&utm_source=google&utm_medium=organic&utm_campaign=shopping"),
 ("R$ ", ""),
 ]
 
