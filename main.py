@@ -50,7 +50,18 @@ precos_e_links = [
 ("R$ 2999", "https://loja.electrolux.com.br/geladeira-electrolux-frost-free-431l-efficient-autosense-duplex-branca--tf70-/p?idsku=310127216&skuId=310127216"),
 ("R$ 2346,08", "https://www.leroymerlin.com.br/geladeira-consul-frost-free-duplex-340-litros-branca-com-prateleiras-altura-flex-crm39ab-220v_1566707564?region=outros"),
 ("R$ 2744,64", "https://www.brastemp.com.br/geladeira-brastemp-frost-free-duplex-375-litros-cor-branca-com-espaco-adapt-brm45jb/p?idsku=326031047&utm_source=google&utm_medium=organic&utm_campaign=shopping"),
+("R$ 2880", "https://www.consul.com.br/geladeira-consul-frost-free-duplex-com-freezer-embaixo-cre45mb/p"),
+("R$ 2790", "https://www.consul.com.br/geladeira-frost-free-duplex-branca-consul-crm56mb/p"),
+("R$ 2570", "https://www.consul.com.br/geladeira-frost-free-duplex-consul-crm44mb/p?idsku=326183363&skuId=326183363&utm_campaign=comparador_mpi_d2c&utm_medium=comparadores&utm_source=zoom&utm_term=c2145529c657414290fbf27d974defa5&utmi_campaign=pla&utmi_cp=pla"),
+("R$ 2689", "https://www.buscape.com.br/geladeira/geladeira-samsung-evolution-rt38dg6120s9fz-frost-free-duplex-391-litros-cor-inox?_lc=88&searchterm=Geladeira%20"),
 ("R$ ", ""),
+("R$ ", ""),
+("R$ ", ""),
+("R$ ", ""),
+("R$ ", ""),
+("R$ ", ""),
+("R$ ", ""),
+
 ]
 
 # Título principal diminuído (usando h2 em vez de h1)
