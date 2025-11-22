@@ -41,7 +41,7 @@ precos_e_links = [
     ("R$ ", "https://www.centauro.com.br/conjuto-de-agasalho-masculino-asics-interlock-bolso-fusionado-976753.html?cor=02"),
     ("R$ ", "https://www.centauro.com.br/conjunto-de-agasalho-masculino-asics-com-capuz-interlock-fechado-976758.html?cor=02"),
     ("R$ 1794", "https://shopee.com.br/Xiaomi-Poco-X7-Pro-512GB-256GB-12-Ram-5G-Vers%C3%A3o-Global-NFC-Original-Lacrado-e-Envio-Imediato-ADS-i.1351433975.20698075298"),
-("👉R$ 2866 25,8kwh CRE45MB 399L", "https://www.consul.com.br/geladeira-consul-frost-free-duplex-com-freezer-embaixo-cre45mb/p"),
+("👉R$ 2671 25,8kwh CRE45MB 399L", "https://www.consul.com.br/geladeira-consul-frost-free-duplex-com-freezer-embaixo-cre45mb/p"),
 ("R$ ", "https://www.zoom.com.br/geladeira/geladeira-consul-cre45mb-frost-free-inverse-399-litros"),
 ("R$ ", "https://www.google.com/search?q=CRE45MB&sourceid=chrome-mobile&ie=UTF-8&ctxr&ctxsl_trans=1&tlitesl=pt-PT&tlitetl=pt&tlitetxt=CRE45MB"),
    ("R$ ", "https://www.midea.com.br/geladeira-inverse-frost-free-416l-inverter-branca-midea/p"),
